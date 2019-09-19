@@ -1,4 +1,6 @@
 
 function breakOut(array, changeValue, stopValue){
-  array.forEach(element => )
+  array.forEach(element, i => {
+    
+  })
 }
